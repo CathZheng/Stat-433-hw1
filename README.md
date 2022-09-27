@@ -105,7 +105,8 @@ flights %>% group_by(month,day) %>%
     ## `summarise()` has grouped output by 'month'. You can override using the
     ## `.groups` argument.
 
-![](README_files/figure-gfm/unnamed-chunk-6-1.png)<!-- --> According to
-the graph, there is a pattern between the proportion of canceled flights
-and the average delay. When one of them increases, the other will also
-increase.
+![](README_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+
+According to the graph, there is a pattern between the proportion of
+canceled flights and the average delay. When one of them increases, the
+other will also increase.
